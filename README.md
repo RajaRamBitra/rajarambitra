@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Raja Ram Bitra.
+
+Check out my project blogs [here](https://rajarambitra.github.io/)
 <!--
 **RajaRamBitra/rajarambitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
